@@ -21,5 +21,5 @@ An object, is a reference data type. Variables that are assigned a reference val
 
 Loosely speaking, objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
 
-For Eg. If your object is a student, it will have properties like name, age,address, id, etc and methods like updateAddress, updateNam, etc.
+For Eg. If your object is a student, it will have properties like name, age, address, id, etc and methods like updateAddress, updateNam, etc.
 
